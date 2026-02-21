@@ -83,7 +83,7 @@ Feel free to explore my repositories and collaborate 🚀
     <img src="https://img.shields.io/badge/LinkedIn-Suha%20Shehadeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.boot.dev/u/suhashehadeh" target="_blank">
+  <a href="https://www.boot.dev/u/suhashehade" target="_blank">
     <img src="https://img.shields.io/badge/Boot.dev-Profile-1E90FF?style=for-the-badge&logo=code&logoColor=white"/>
   </a>
 </p>
