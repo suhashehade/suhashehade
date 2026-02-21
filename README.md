@@ -82,14 +82,18 @@ Feel free to explore my repositories and collaborate 🚀
 
 ## 🤝 Connect With Me
 
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/suhashehadeh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" 
          alt="LinkedIn" width="45" height="45"/>
   </a>
 
   <a href="https://www.boot.dev/u/suhashehade" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/77909207?s=200&v=4" 
+    <img src="https://cdn.simpleicons.org/bootdotdev/FFFFFF" 
          alt="Boot.dev" width="45" height="45"/>
   </a>
 </p>
