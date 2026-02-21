@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Suha Shehadeh</h1>
+<h3 align="center">Full-Stack Software Engineer | Product-Minded Developer 🚀</h3>
 
-<!--
-**suhashehade/suhashehade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I build scalable, user-centered digital products.  
+🎯 I think beyond code — I think product, strategy, and impact.  
+📈 I care about performance, architecture, and business value.  
+🧠 I combine engineering execution with product vision.
+
+---
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,bootstrap,tailwind,css,html,ts,js,jquery" />
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="48" height="48"/>
+</p>
+
+---
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+---
+
+## 🧠 Product Mindset
+
+✨ I don’t just ship features — I solve real problems.  
+
+- User-first thinking  
+- Business-oriented decisions  
+- Clean & scalable architecture  
+- Clear documentation & communication  
+- From idea → MVP → Production  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌟 What You'll Find Here
+
+- Real-world full-stack applications  
+- Structured & maintainable codebases  
+- Clean UI implementations  
+- Scalable backend architectures  
+- Continuous learning & experimentation  
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories and collaborate 🚀  
+
+---
+
+<h3 align="center">Always Learning. Always Building. Always Improving.</h3>
