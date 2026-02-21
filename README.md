@@ -78,13 +78,19 @@ Feel free to explore my repositories and collaborate 🚀
 
 ## 🤝 Let's Connect
 
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/suhashehadeh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Suha%20Shehadeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="45" height="45"/>
   </a>
 
   <a href="https://www.boot.dev/u/suhashehade" target="_blank">
-    <img src="https://img.shields.io/badge/Boot.dev-Profile-1E90FF?style=for-the-badge&logo=code&logoColor=white"/>
+    <img src="https://avatars.githubusercontent.com/u/77909207?s=200&v=4" 
+         alt="Boot.dev" width="45" height="45"/>
   </a>
 </p>
 
