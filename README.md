@@ -72,29 +72,13 @@
 
 ## 🤝 Let's Connect
 
-Feel free to explore my repositories and collaborate 🚀  
-
----
-
-## 🤝 Let's Connect
-
----
-
-## 🤝 Connect With Me
-
----
-
-## 🤝 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/suhashehadeh/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" 
-         alt="LinkedIn" width="45" height="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Suha%20Shehadeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://www.boot.dev/u/suhashehade" target="_blank">
-    <img src="https://cdn.simpleicons.org/bootdotdev/FFFFFF" 
-         alt="Boot.dev" width="45" height="45"/>
+    <img src="https://img.shields.io/badge/Boot.dev-Profile-1E90FF?style=for-the-badge&logo=code&logoColor=white"/>
   </a>
 </p>
 
