@@ -80,6 +80,9 @@
   <a href="https://www.boot.dev/u/suhashehade" target="_blank">
     <img src="https://img.shields.io/badge/Boot.dev-Profile-1E90FF?style=for-the-badge&logo=code&logoColor=white"/>
   </a>
+  <p align="right">
+  <img src="https://api.boot.dev/v1/users/public/6f72aaac-30b9-428e-8446-77af0491961a/thumbnail" >
+</p>
 </p>
 
 ---
